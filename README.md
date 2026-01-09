@@ -1,4 +1,4 @@
-# Hii!
+# Hii everyone, Harshita these side !
 # 💫 About Me:
 I'm currently pursuing btech cse with ai and working on full stack projects and improving my digital world skills .<br>I'm looking to collaborate on frontend and backend projects, open source contrubtions , internships and leaning oriented tech teams.<br>🧠 I’m looking for help with<br>Guidance for paid internships, project-based learning opportunities, and understanding real-world development workflows.<br>🌱 I’m currently learning<br>Advanced JavaScript concepts, DSA, Advanced backend development, and best coding practices.<br>💬 Ask me about<br>Frontend development , backend developments basics, student tech journey, internship preparation, and starting projects.<br>⚡ Fun fact<br>I believe consistent learning and small projects can turn beginners into confident developers 🚀
 
